@@ -1,16 +1,17 @@
-## Hi there 👋
+# **BladeSMP.de » Season 2 Relaunch**
 
-<!--
-**bladesmp/bladesmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ## ***Der Server ist nun Online!***
+*Season 2 startet nochmal neu: Ein einfacher, klassischer SMP für Java- und Bedrock-Spieler diesmal alles Minimal gehalten (abgesehen von den boost bots), eine "Bessere" Economy! und NOCH MEHR Kritikunfähigkeit als davor.*
 
-Here are some ideas to get you started:
+> ## **Das erwartet euch:**
+* **Economy** durch Mining, Farming und Virtual Spawner, oder das abuse von Adminrechten
+* **Boosts** – Ein auf Level 3 gebotteter Discord Server! Trotzdem müsst IHR euch an die ToS von Discord halten, wir halt nicht.
+* **Crates** mit Gear, Sellwands, Spawnern, Villager Eggs und mehr - natürlich wie gewohnt Pay to Win
+* **Kritikunfähig** – Jeder der sich kritisch gegenüber dem Server äußert wird gebannt. So bleiben alle ewig treu. 
+* **CvL-Stil:** Klassisches CvL (Cequu vs Lobsters) und ständige Renovierungen des Servers sorgen für großen Spaß
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*IP: bladesmp.de*
+*Port: 19132*
+
+> ## Du willst dabei sein?
+*Denk nochmal nach, ob du das wirklich willst.*
